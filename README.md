@@ -93,7 +93,15 @@ SIM900 is a complete Quad-band GSM/GPRS solution in an SMT type that can be embe
 SIM900 supports Quad-band 850/900/1800/1900MHz, it can transmit Voice, SMS, and data information with low power consumption. With a tiny size of 24*24*3mm, it can fit into the slim and compact demands of customer design. Featuring Bluetooth and Embedded AT, it allows total cost savings and fast time-to-market for customer applications.
 
 ![image](https://github.com/PriyanshaNayak/IOT-BASED-WASTE-MONITORING-AND-COLLECTING-SYSTEM-FOR-SMART-CITY/assets/87187181/25eaa053-0aaf-43b3-b5f7-2f55fa0c039b)
-(GSM Module Sim 900)
+                                           (GSM Module Sim 900)
+
+GSM networks operate in many different carrier frequency ranges (separated into GSM frequency ranges for 2G and UMTS.
+
+Frequency bands for 3G), with most 2G GSM networks operating in the 900 MHz or 1800 MHz bands. Where these bands were already allocated, the 850 MHz and 1900 MHz bands were used instead (for example in Canada and the United States). In rare cases, the 400 and 450 MHz frequency bands are assigned in some countries because they were previously used for first-generation systems.
+
+![image](https://github.com/PriyanshaNayak/IOT-BASED-WASTE-MONITORING-AND-COLLECTING-SYSTEM-FOR-SMART-CITY/assets/87187181/d4fad2ce-10de-4f7a-9b05-2379e9cc64a5)
+                                           (GSM SIM 900/GPRS) 
+
 
 
 
