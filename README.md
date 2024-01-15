@@ -21,9 +21,13 @@ The main objective of our project involves applying IoT technology (electronics 
 The project will be applicable for the following purposes:
 
 •It reduces the environmental pollution.
+
 • Real-time based cleaning of the garbage container.
+
 •It can be used in smart cities.
+
 •It empowers clean and green city programs.
+
 •It makes our system transparent between the municipal corporations.
 
 ## LITERATURE REVIEW 
@@ -56,8 +60,18 @@ It was developed in Yorkshire, England by Lab Center Electronics Ltd and is avai
 
 ## HARDWARE TOOLS USED: 
 # Ultrasonic Sensor HC SR04
-A special sonic transducer is used for the ultrasonic proximity sensors, which allows for alternate transmission and reception of sound waves. The sonic waves emitted by the transducer are reflected by an object and received back in the transducer. After having emitted the sound waves, the ultrasonic sensor will switch to receive mode. The time elapsed between emitting and receiving is proportional to the distance of the object from the sensor.
+A special sonic transducer is used for the ultrasonic proximity sensors, which allows for alternate transmission and reception of sound waves. The sonic waves emitted by the transducer are reflected by an object and received back in the transducer. After having emitted the sound waves, the ultrasonic sensor will switch to receive mode. The time elapsed between emitting and receiving is proportional to the distance of the object from the sensor. Ultrasonic sensors generate high-frequency sound waves and evaluate the echo that is received back by the sensor, measuring the time interval between sending the signal and receiving the echo to determine the distance to an object.
 ![image](https://github.com/PriyanshaNayak/IOT-BASED-WASTE-MONITORING-AND-COLLECTING-SYSTEM-FOR-SMART-CITY/assets/87187181/def3233b-c8ac-47af-a437-9c18864357d8)
+
+# AT MEGA 328 Microcontroller
+A microcontroller is a programmable device that contains a microprocessor, memory, input-output ports, etc. which can be compared with the microcomputer. A microcontroller is a single-chip computer. As a microcontroller is a low-cost programmable device it is used in automatic control applications. The necessary information can be stored in the microcontroller.
+
+It has 32 kB ISPflash memory with read-while-write capabilities, 1 kB EEPROM, 2 kB SRAM, 23 general purpose I/O lines, 32 general purpose working registers, three flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, internal oscillator, and five software selectable power saving modes. The device operates between 1.8-5.5 volts. The device achieves throughput approaching 1 MIPS per MHz. 
+
+![image](https://github.com/PriyanshaNayak/IOT-BASED-WASTE-MONITORING-AND-COLLECTING-SYSTEM-FOR-SMART-CITY/assets/87187181/dcb7b008-668d-4aed-b0a0-e82dd6ffd9f2)
+
+
+
 
 
 
