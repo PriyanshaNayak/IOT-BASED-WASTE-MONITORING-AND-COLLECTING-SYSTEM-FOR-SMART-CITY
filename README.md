@@ -68,19 +68,35 @@ It was developed in Yorkshire, England by Lab Center Electronics Ltd and is avai
 ## HARDWARE TOOLS USED: 
 # Ultrasonic Sensor HC SR04
 A special sonic transducer is used for the ultrasonic proximity sensors, which allows for alternate transmission and reception of sound waves. The sonic waves emitted by the transducer are reflected by an object and received back in the transducer. After having emitted the sound waves, the ultrasonic sensor will switch to receive mode. The time elapsed between emitting and receiving is proportional to the distance of the object from the sensor. Ultrasonic sensors generate high-frequency sound waves and evaluate the echo that is received back by the sensor, measuring the time interval between sending the signal and receiving the echo to determine the distance to an object.
-![image](https://github.com/PriyanshaNayak/IOT-BASED-WASTE-MONITORING-AND-COLLECTING-SYSTEM-FOR-SMART-CITY/assets/87187181/def3233b-c8ac-47af-a437-9c18864357d8) (Ultrasonic Sensor)
+![image](https://github.com/PriyanshaNayak/IOT-BASED-WASTE-MONITORING-AND-COLLECTING-SYSTEM-FOR-SMART-CITY/assets/87187181/def3233b-c8ac-47af-a437-9c18864357d8) 
+(Ultrasonic Sensor)
 
 # AT MEGA 328 Microcontroller
 A microcontroller is a programmable device that contains a microprocessor, memory, input-output ports, etc. which can be compared with the microcomputer. A microcontroller is a single-chip computer. As a microcontroller is a low-cost programmable device it is used in automatic control applications. The necessary information can be stored in the microcontroller.
 
 It has 32 kB ISPflash memory with read-while-write capabilities, 1 kB EEPROM, 2 kB SRAM, 23 general purpose I/O lines, 32 general purpose working registers, three flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, internal oscillator, and five software selectable power saving modes. The device operates between 1.8-5.5 volts. The device achieves throughput approaching 1 MIPS per MHz. 
 
-![image](https://github.com/PriyanshaNayak/IOT-BASED-WASTE-MONITORING-AND-COLLECTING-SYSTEM-FOR-SMART-CITY/assets/87187181/dcb7b008-668d-4aed-b0a0-e82dd6ffd9f2) (Pin configuration of Microcontroller)
+![image](https://github.com/PriyanshaNayak/IOT-BASED-WASTE-MONITORING-AND-COLLECTING-SYSTEM-FOR-SMART-CITY/assets/87187181/dcb7b008-668d-4aed-b0a0-e82dd6ffd9f2) 
+(Pin configuration of Microcontroller)
 
-![image](https://github.com/PriyanshaNayak/IOT-BASED-WASTE-MONITORING-AND-COLLECTING-SYSTEM-FOR-SMART-CITY/assets/87187181/f21a0644-53b2-4054-a146-c2fce2aae4ac) (AT MEGA 328p IC)
+![image](https://github.com/PriyanshaNayak/IOT-BASED-WASTE-MONITORING-AND-COLLECTING-SYSTEM-FOR-SMART-CITY/assets/87187181/f21a0644-53b2-4054-a146-c2fce2aae4ac) 
+(AT MEGA 328p IC)
+
+# GSM Module
+
+GSM (Global System for Mobile Communications, originally Groupe Special Mobile), is a standard developed by the European Telecommunications Standards Institute (ETSI) to describe the protocols for second-generation (2G) digital and Cellular networks used by mobile phones, first deployed in Finland in July 1991. As of 2014, it has become the default global standard for mobile communications – with over 90% market share, operating in over 219 countries and territories. 
+
+GSM is a mobile communication modem; it stands for global system for mobile communication (GSM). The idea of GSM was developed at Bell Laboratories in 1970.  It is a widely used mobile communication system in the world. GSM is an open and digital cellular technology used for transmitting mobile voice and data services operating at the 850MHz, 900MHz, 1800MHz, and 1900MHz frequency bands. GSM system was developed as a digital system using the time division multiple access (TDMA) technique for communication purposes. A GSM digitizes and reduces the data, then sends it down through a channel with two different streams of client data, each in its particular time slot. The digital system can carry 64 kbps to 120 Mbps of data rates.
+
+SIM900 is a complete Quad-band GSM/GPRS solution in an SMT type that can be embedded in customer applications.
+
+SIM900 supports Quad-band 850/900/1800/1900MHz, it can transmit Voice, SMS, and data information with low power consumption. With a tiny size of 24*24*3mm, it can fit into the slim and compact demands of customer design. Featuring Bluetooth and Embedded AT, it allows total cost savings and fast time-to-market for customer applications.
+
+![image](https://github.com/PriyanshaNayak/IOT-BASED-WASTE-MONITORING-AND-COLLECTING-SYSTEM-FOR-SMART-CITY/assets/87187181/25eaa053-0aaf-43b3-b5f7-2f55fa0c039b)
+(GSM Module Sim 900)
 
 
-# 
+
 
 
 
