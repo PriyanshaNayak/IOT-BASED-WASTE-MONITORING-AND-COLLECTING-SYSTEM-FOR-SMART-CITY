@@ -257,6 +257,7 @@ Avoids the overflow of the dustbin. This IoT beached waste management is very us
 
 # Societal Impact : 
 • Our system can be used on a larger scale to keep our cities clean by monitoring the garbage in dustbins located in different corners of the city. This would solve to a great extent the sanitary and resource wastage problems mentioned earlier. 
+
 • Besides, a much cleaner city would result in curbing a lot of diseases leading to much better health conditions.
 
 
