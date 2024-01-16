@@ -183,6 +183,10 @@ Support I2C (TWI) communication using the Wire library (documentation on the Wir
 # Power Pins: VIN (sometimes labeled “9V”) :
 The input voltage to the Arduino board when it’s using an external power source (as opposed to 5 volts from the USB connection or other regulated power source) 5V. The regulated power supply used to power the microcontroller and other components on the board. This can come either from VIN via an on-board regulator, or be supplied by USB or another regulated 5V supply. 
 
+## CODE
+
+![image](https://github.com/PriyanshaNayak/IOT-BASED-WASTE-MONITORING-AND-COLLECTING-SYSTEM-FOR-SMART-CITY/assets/87187181/dbab9ae6-8f42-40a3-8481-f2c22b7882a5)
+(Screenshot of Arduino IDE) 
 ## SYSTEM DESIGN 
 
 # System Block Diagram: 
