@@ -239,6 +239,14 @@ It describes the steps to be followed to implement the proposed system and the h
 
 Once this SMS is received, the dustbin is addressed via GPS Module where the driver can find the exact address of the filled container. Thus the locality/city is saved from pollution.
 
+# Hardware Circuit : 
+
+![1](https://github.com/PriyanshaNayak/IOT-BASED-WASTE-MONITORING-AND-COLLECTING-SYSTEM-FOR-SMART-CITY/assets/87187181/89c802a9-7548-494d-8eb9-0efba2a57004)
+
+![2](https://github.com/PriyanshaNayak/IOT-BASED-WASTE-MONITORING-AND-COLLECTING-SYSTEM-FOR-SMART-CITY/assets/87187181/556a985c-343d-4cd2-a222-e135f2ea5f0d)
+
+![3](https://github.com/PriyanshaNayak/IOT-BASED-WASTE-MONITORING-AND-COLLECTING-SYSTEM-FOR-SMART-CITY/assets/87187181/156086c5-0074-4602-8af7-fc7bb87b3f06)
+
 ## RESULT
 
 # Experimental Data : 
